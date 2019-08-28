@@ -28,5 +28,6 @@
 
 # MOTD BPTU
 copy to `/etc/update-motd.d`
+
 <img src='https://github.com/yoannportugal/MOTD-Node/blob/master/BPTU-MOTD.PNG' alt='mptu motd'>
 
