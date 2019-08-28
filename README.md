@@ -28,5 +28,5 @@
 
 # MOTD BPTU
 copy to `/etc/update-motd.d`
-<img src='https://raw.githubusercontent.com/xTrinch/update-motd.d/master/BPTU-MOTD.PNG' alt='mptu motd'>
+<img src='https://github.com/yoannportugal/MOTD-Node/blob/master/BPTU-MOTD.PNG' alt='mptu motd'>
 
