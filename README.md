@@ -24,3 +24,9 @@
 ## Screenshot
 
 <img src='https://raw.githubusercontent.com/xTrinch/update-motd.d/master/motd-screenshot.PNG' alt='motd screenshot'>
+
+
+# MOTD BPTU
+copy to `/etc/update-motd.d`
+<img src='https://raw.githubusercontent.com/xTrinch/update-motd.d/master/BPTU-MOTD.PNG' alt='mptu motd'>
+
